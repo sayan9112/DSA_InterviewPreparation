@@ -22,7 +22,7 @@ class Solution {
                 sum += accounts[person][account];
             }
             if(sum>ans){
-                ans=sum:
+                ans=sum;
             }
         }
         return ans;
