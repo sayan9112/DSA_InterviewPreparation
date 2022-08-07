@@ -8,3 +8,7 @@
 2. question:  https://leetcode.com/problems/richest-customer-wealth <br />
    solution:  https://github.com/sayan9112/DSA_leetcode/blob/main/Richest%20Customer%20Wealth.java <br />
    <br />
+
+3. question:  https://leetcode.com/problems/find-smallest-letter-greater-than-target/ <br />
+   solution:  https://github.com/sayan9112/DSA_leetcode/blob/main/Find%20Smallest%20Letter%20Greater%20Than%20Target.java <br />
+   <br />
